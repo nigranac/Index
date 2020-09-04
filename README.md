@@ -1,6 +1,6 @@
 ## Index
 
-:muscle:
+:muscle: :muscle: :muscle:   
 
 - **Netflix Survey Form** 
 [Repository](https://github.com/nigranac/Netflix-Home-Page) and [Web-Page](https://nigranac.github.io/Netflix-Home-Page/)
